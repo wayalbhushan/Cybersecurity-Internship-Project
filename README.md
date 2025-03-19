@@ -14,7 +14,6 @@ As part of the CISCO AICTE VIP 2024 program, I designed and architected a hybrid
 
 ## Files Included
 - `BhushanWayal.pkt`: Packet Tracer file for the updated network topology.
-- `Security_Solutions_Report.pdf`: Report detailing the security options and analysis.
 
 ## Acknowledgments
 A huge thank you to Cisco and the NIIT Foundation for providing this incredible learning opportunity.
