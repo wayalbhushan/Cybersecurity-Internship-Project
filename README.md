@@ -13,7 +13,8 @@ As part of the CISCO AICTE VIP 2024 program, I designed and architected a hybrid
 - **Risk and Advantage Analysis**: Detailed analysis of the proposed solutions, highlighting the risks and advantages.
 
 ## Files Included
-- `BhushanWayal.pkt ` 'href:https://github.com/wayalbhushan/Cybersecurity-Internship-Project/blob/main/BhushanWayal.pkt': Packet Tracer file for the updated network topology.
+- `BhushanWayal.pkt `: Packet Tracer file for the updated network topology.
+  
 
 ## Acknowledgments
 A huge thank you to Cisco and the NIIT Foundation for providing this incredible learning opportunity.
